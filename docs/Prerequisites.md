@@ -20,8 +20,8 @@ Once you have approval, you need to go here: https://elsi-lscp.ddns.net/maildev/
 
 To access the website, click on this link: https://elsi-lscp.ddns.net/identify/login. This is what the home page looks like (Figure 2).
 
+![Figure 2: ELSI Homepage](Figure2_ELSIDoc.png)
 <figure markdown>
-  ![ELSI Homepage](Figure2_ELSIDoc.png)
   <figcaption>Figure 2: ELSI Homepage</figcaption>
 </figure>
 
