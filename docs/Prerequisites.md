@@ -26,3 +26,7 @@ To access the website, click on this link: https://elsi-lscp.ddns.net/identify/l
 </figure>
 
 Once you log in, the screen should look Figure 3. 
+![Figure 3: First screen after logging into ELSI](Figure3_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 3: First screen after logging into ELSI</figcaption>
+</figure>
