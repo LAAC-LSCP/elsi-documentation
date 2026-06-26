@@ -1,7 +1,3 @@
----
-icon: lucide/rocket
----
-
 # ExELang Legacy Support Interface (ELSI) Documentation
 
 Welcome to ExELang Legacy Support Interface (ELSI). The goal of this documentation is to provide details about the features of the tool and how to use them.
