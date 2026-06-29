@@ -12,3 +12,7 @@ Specifically, the ChildProject Python package for LFR data management addresses 
 
 The ELSI ecosystem operates through three roles with distinct permissions (Figure 1). Custodians (three ExELang Consortium administrators) control access to raw audio, grant permissions, and ensure compliance with consent and ethics protocols. Tool creators have custodian-approved access to raw audio and develop, train, and evaluate machine learning models, such as voice type classifiers and speech recognition systems, which are versioned and contributed back to the ecosystem. Analysts work exclusively with derived metrics and de-identified outputs such as automated annotations and aggregated statistics, without direct access to raw audio.
 
+![Figure 1: ELSI Ecosystem](ELSI_FigureforDoc.png)
+<figure markdown>
+  <figcaption>Figure 1: ELSI Ecosystem</figcaption>
+</figure>
