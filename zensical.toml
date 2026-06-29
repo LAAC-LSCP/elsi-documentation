@@ -46,7 +46,7 @@ Copyright &copy; 2026 The authors
 
 nav = [
     { "Home" = "index.md" },
-    { "Prerequisites" = Prerequisites.md" },
+    { "Prerequisites" = "Prerequisites.md" },
     { "Datasets" = "Datasets.md" },
     { "Running Analyses" = "Running Analyses.md" },
 ]
