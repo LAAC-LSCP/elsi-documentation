@@ -10,9 +10,7 @@ ELSI (ExELang Legacy Support Interface) is a software platform enabling users, r
 
 Specifically, the ChildProject Python package for LFR data management addresses differences in structure and organization by enforcing a consistent directory structure and metadata schema across corpora. Each corpus follows a common schema with metadata at three levels: child (e.g., ID, date of birth), recording (e.g., recording ID, child ID, date), and annotation. The annotation-level metadata, generated automatically by ChildProject, maps each annotation file to its corresponding audio segment, since human annotations of LFRs typically cover only sampled audio sections rather than full recordings. DataLad adds git-based version control for annotations and git-annex for large file management, enabling nested dataset structures that support reproducibility.
 
-The ELSI ecosystem operates through three roles with distinct permissions (Figure 1). Custodians (three ExELang Consortium administrators) control access to raw audio, grant permissions, and ensure compliance with consent and ethics protocols. Tool creators have custodian-approved access to raw audio and develop, train, and evaluate machine learning models, such as voice type classifiers and speech recognition systems, which are versioned and contributed back to the ecosystem. Analysts work exclusively with derived metrics and de-identified outputs such as automated annotations and aggregated statistics, without direct access to raw audio.
-
-![Figure 1: ELSI Ecosystem](ELSI_FigureforDoc.png)
+![Figure 1: ELSI Ecosystem](ELSI_Doc.png)
 <figure markdown>
   <figcaption>Figure 1: ELSI Ecosystem</figcaption>
 </figure>
